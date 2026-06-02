@@ -42,7 +42,7 @@ margin-top:-vh
               <div class="${msg2}" >
 <marquee >${msg}</marquee>
 </div>
-              <p class="text-white-50 mb-5">Please enter your login and password !</p>
+              <p class="text-white-50 mb-5">Please enter your login and password here now !</p>
 
               <div data-mdb-input-init class="form-outline form-white mb-4">
                 <input type="username" placeholder="username" name="username" id="typeEmailX" class="form-control form-control-lg" />
